@@ -1,0 +1,11 @@
+<markers>
+  <marker id="1" name="Love.Fish" address="580 Darling Street, Rozelle, NSW" lat="-3.386103400000000e+001" lng="1.511719360000000e+002" type="bar" />
+  <marker id="2" name="Young Henrys" address="76 Wilford Street, Newtown, NSW" lat="-3.389811300000000e+001" lng="1.511744690000000e+002" type="bar" />
+  <marker id="3" name="Hunter Gatherer" address="Greenwood Plaza, 36 Blue St, North Sydney NSW" lat="-3.384028200000000e+001" lng="1.512074740000000e+002" type="bar" />
+  <marker id="4" name="The Potting Shed" address="7A, 2 Huntley Street, Alexandria, NSW" lat="-3.391075100000000e+001" lng="1.511941680000000e+002" type="bar" />
+  <marker id="5" name="Nomad" address="16 Foster Street, Surry Hills, NSW" lat="-3.387991700000000e+001" lng="1.512104490000000e+002" type="bar" />
+  <marker id="6" name="Three Blue Ducks" address="43 Macpherson Street, Bronte, NSW" lat="-3.390635700000000e+001" lng="1.512637630000000e+002" type="restaurant" />
+  <marker id="7" name="Single Origin Roasters" address="60-64 Reservoir Street, Surry Hills, NSW" lat="-3.388112300000000e+001" lng="1.512096560000000e+002" type="restaurant" />
+  <marker id="8" name="Red Lantern" address="60 Riley Street, Darlinghurst, NSW" lat="-3.387473700000000e+001" lng="1.512155300000000e+002" type="restaurant" />
+  <marker id="10" name="Han Solo" address="Tatooin" lat="1.212120000000000e+001" lng="4.321100000000000e+001" type="restaurant" />
+</markers>
